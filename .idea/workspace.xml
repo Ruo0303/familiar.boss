@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="遊戲壓縮檔案測試">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/___.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/在删除所选更改之前未提交的更改_[更改]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg-callout.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/bg-callout.jpg" afterDir="false" />
+    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="編輯level">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio-4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -91,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782442781494</updated>
       <workItem from="1782442782582" duration="8312000" />
-      <workItem from="1782453009037" duration="4412000" />
+      <workItem from="1782453009037" duration="6298000" />
     </task>
     <task id="LOCAL-00001" summary="1.0模板微調">
       <option name="closed" value="true" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782453551801</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="編輯level">
+      <option name="closed" value="true" />
+      <created>1782474429955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782474429955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,7 @@
     <MESSAGE value="1.0模板微調" />
     <MESSAGE value="1.1模板微調" />
     <MESSAGE value="遊戲壓縮檔案測試" />
-    <option name="LAST_COMMIT_MESSAGE" value="遊戲壓縮檔案測試" />
+    <MESSAGE value="編輯level" />
+    <option name="LAST_COMMIT_MESSAGE" value="編輯level" />
   </component>
 </project>

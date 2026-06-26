@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="排版level、調整portfolio">
+    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="調整整體排版，修改配文">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782442781494</updated>
       <workItem from="1782442782582" duration="8312000" />
-      <workItem from="1782453009037" duration="7607000" />
+      <workItem from="1782453009037" duration="9047000" />
     </task>
     <task id="LOCAL-00001" summary="1.0模板微調">
       <option name="closed" value="true" />
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782477163655</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="調整整體排版，修改配文">
+      <option name="closed" value="true" />
+      <created>1782478845731</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782478845731</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +180,7 @@
     <MESSAGE value="遊戲壓縮檔案測試" />
     <MESSAGE value="編輯level" />
     <MESSAGE value="排版level、調整portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="排版level、調整portfolio" />
+    <MESSAGE value="調整整體排版，修改配文" />
+    <option name="LAST_COMMIT_MESSAGE" value="調整整體排版，修改配文" />
   </component>
 </project>

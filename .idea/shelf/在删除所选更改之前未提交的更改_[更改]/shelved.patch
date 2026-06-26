@@ -1,0 +1,17 @@
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 2a544a2da80e1087b64746958de4c816c2c40d21)
++++ /dev/null	(revision 2a544a2da80e1087b64746958de4c816c2c40d21)
+@@ -1,10 +0,0 @@
+-# 默认忽略的文件
+-/shelf/
+-/workspace.xml
+-# 已忽略包含查询文件的默认文件夹
+-/queries/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+-# 基于编辑器的 HTTP 客户端请求
+-/httpRequests/

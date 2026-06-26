@@ -10885,7 +10885,7 @@ html {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #c38240;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -11002,7 +11002,12 @@ footer.footer .social-link:hover {
 }
 
 .map {
-  height: 30rem;
+  height: 20rem;
+}
+.map img{
+  height: 20rem;
+  width: 100%;
+  object-fit: cover;
 }
 .map iframe {
   pointer-events: none;

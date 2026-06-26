@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="修改連結圖片、調整level bg">
+    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="新增直接下載遊戲連結">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782442781494</updated>
       <workItem from="1782442782582" duration="8312000" />
-      <workItem from="1782453009037" duration="10200000" />
+      <workItem from="1782453009037" duration="11849000" />
     </task>
     <task id="LOCAL-00001" summary="1.0模板微調">
       <option name="closed" value="true" />
@@ -153,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782479865934</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="新增直接下載遊戲連結">
+      <option name="closed" value="true" />
+      <created>1782485383355</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782485383355</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
     <MESSAGE value="排版level、調整portfolio" />
     <MESSAGE value="調整整體排版，修改配文" />
     <MESSAGE value="修改連結圖片、調整level bg" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改連結圖片、調整level bg" />
+    <MESSAGE value="新增直接下載遊戲連結" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增直接下載遊戲連結" />
   </component>
 </project>

@@ -245,6 +245,7 @@ sup {
 }
 
 a {
+  font-weight: bolder;
   color: var(--bs-link-color);
   text-decoration: underline;
 }
@@ -10967,7 +10968,7 @@ html {
 }
 
 .callout {
-  padding: 35rem 0;
+  padding: 29rem 0;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
   background-position: center center;
   background-repeat: no-repeat;

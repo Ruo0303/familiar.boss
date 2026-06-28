@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="將內容初步修改完畢">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="a1cbab1a-e3f0-443c-9d90-f53cb86ac7fb" name="更改" comment="修改社群媒體圖標顏色" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1782442781494</updated>
       <workItem from="1782442782582" duration="8312000" />
-      <workItem from="1782453009037" duration="12185000" />
+      <workItem from="1782453009037" duration="12688000" />
     </task>
     <task id="LOCAL-00001" summary="1.0模板微調">
       <option name="closed" value="true" />
@@ -175,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782486946382</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改社群媒體圖標顏色">
+      <option name="closed" value="true" />
+      <created>1782487198736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782487198736</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改社群媒體圖標顏色">
+      <option name="closed" value="true" />
+      <created>1782487379363</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782487379363</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +228,7 @@
     <MESSAGE value="修改連結圖片、調整level bg" />
     <MESSAGE value="新增直接下載遊戲連結" />
     <MESSAGE value="將內容初步修改完畢" />
-    <option name="LAST_COMMIT_MESSAGE" value="將內容初步修改完畢" />
+    <MESSAGE value="修改社群媒體圖標顏色" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改社群媒體圖標顏色" />
   </component>
 </project>
